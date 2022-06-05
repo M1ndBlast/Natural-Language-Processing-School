@@ -1,0 +1,986 @@
+INFO:chatterbot.chatterbot:TestLogicAdapter selected "The current time is 05:31 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:MyLogicAdapter selected "hola" as a response with a confidence of 0.22351238053204137
+INFO:chatterbot.chatterbot:Not processing the statement using MathematicalEvaluation
+INFO:chatterbot.chatterbot:TimeLogicAdapter selected "The current time is 05:31 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 27 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 27 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "hola" as a response to "buenas tardes , todo bien_"
+INFO:chatterbot.chatterbot:TestLogicAdapter selected "The current time is 05:32 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:MyLogicAdapter selected "Hola" as a response with a confidence of 0.7781589663090819
+INFO:chatterbot.chatterbot:Not processing the statement using MathematicalEvaluation
+INFO:chatterbot.chatterbot:TimeLogicAdapter selected "The current time is 05:32 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 30 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 30 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "hola"
+INFO:chatterbot.chatterbot:TestLogicAdapter selected "The current time is 05:36 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:MyLogicAdapter selected "Hola" as a response with a confidence of 0.25984257333481875
+INFO:chatterbot.chatterbot:Not processing the statement using MathematicalEvaluation
+INFO:chatterbot.chatterbot:TimeLogicAdapter selected "The current time is 05:36 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 33 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 33 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+INFO:chatterbot.chatterbot:TestLogicAdapter selected "The current time is 05:37 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:MyLogicAdapter selected "Hola" as a response with a confidence of 0.303262309312439
+INFO:chatterbot.chatterbot:Not processing the statement using MathematicalEvaluation
+INFO:chatterbot.chatterbot:TimeLogicAdapter selected "The current time is 05:37 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 5 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 5 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "None"
+INFO:chatterbot.chatterbot:MyLogicAdapter selected "Hola" as a response with a confidence of 0.08738807011173333
+INFO:chatterbot.chatterbot:Not processing the statement using MathematicalEvaluation
+INFO:chatterbot.chatterbot:TimeLogicAdapter selected "The current time is 05:38 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 5 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 5 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "None"
+INFO:chatterbot.chatterbot:TestLogicAdapter selected "The current time is 05:39 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Not processing the statement using MathematicalEvaluation
+INFO:chatterbot.chatterbot:TimeLogicAdapter selected "The current time is 05:39 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 11 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 11 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+INFO:chatterbot.chatterbot:TestLogicAdapter selected "The current time is 05:41 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Not processing the statement using MathematicalEvaluation
+INFO:chatterbot.chatterbot:TimeLogicAdapter selected "The current time is 05:41 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 5 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 5 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+INFO:chatterbot.chatterbot:Not processing the statement using MathematicalEvaluation
+INFO:chatterbot.chatterbot:TimeLogicAdapter selected "The current time is 05:42 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 8 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 8 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 13 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 13 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 14 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 14 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 7 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 7 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 8 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 8 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Cómo estás?"
+INFO:chatterbot.chatterbot:Selecting response from 10 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 10 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "Como estas??" as a close match to "Como estas??" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Saludos"
+INFO:chatterbot.chatterbot:Selecting response from 468 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 468 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "Como estas??" as a response to "Hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Estoy bien, ¿y tú? 0.59
+INFO:chatterbot.chatterbot:Using "Estoy bien, ¿y tú?" as a close match to "Bien, Bien y tu?" with a confidence of 0.59
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Saludos"
+INFO:chatterbot.chatterbot:Selecting response from 12 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 12 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Yo también estoy bien."
+INFO:chatterbot.chatterbot:BestMatch selected "Yo también estoy bien." as a response with a confidence of 0.59
+INFO:chatterbot.chatterbot:Adding "Bien, Bien y tu?" as a response to "Como estas??"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "Me alegra mucho" as a close match to "Me alegra mucho" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Saludos"
+INFO:chatterbot.chatterbot:Selecting response from 468 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 468 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "Me alegra mucho" as a response to "Bien, Bien y tu?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 53 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 53 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:TestLogicAdapter selected "The current time is 05:57 PM" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Me alegra mucho"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Como estas?? 0.96
+INFO:chatterbot.chatterbot:Using "Como estas??" as a close match to "Como estas?" with a confidence of 0.96
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿cómo estás?" as a response with a confidence of 0.96
+INFO:chatterbot.chatterbot:TestLogicAdapter selected "The current time is 05:57 PM" as a response with a confidence of 1
+INFO:chatterbot.chatterbot:Adding "Como estas?" as a response to "Hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 65 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 65 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Como estas?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Has oído las noticias? 0.27
+INFO:chatterbot.chatterbot:Similar text found: El pastel es una mentira. 0.36
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué otra cosa es delicioso? 0.43
+INFO:chatterbot.chatterbot:Similar text found: ¿Que otra cosa es delicioso? 0.48
+INFO:chatterbot.chatterbot:Using "¿Has oído las noticias?" as a close match to "que dia es hoy" with a confidence of 0.27
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 10 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 10 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Qué buena noticia?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Qué buena noticia?" as a response with a confidence of 0.27
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Sí, lo es. 0.32
+INFO:chatterbot.chatterbot:Using "Sí, lo es." as a close match to "Que dia es hoy?" with a confidence of 0.32
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 11 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 11 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Puedo ayudarte en algo?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Puedo ayudarte en algo?" as a response with a confidence of 0.32
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Has oído las noticias? 0.24
+INFO:chatterbot.chatterbot:Similar text found: El pastel es una mentira. 0.28
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué otra cosa es delicioso? 0.39
+INFO:chatterbot.chatterbot:Similar text found: ¿Que otra cosa es delicioso? 0.43
+INFO:chatterbot.chatterbot:Using "¿Has oído las noticias?" as a close match to "queque dia es hoy=" with a confidence of 0.24
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 12 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 12 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Qué buena noticia?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Qué buena noticia?" as a response with a confidence of 0.24
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "sábado, 4 de junio de 2022" as a response with a confidence of 0.7
+INFO:chatterbot.chatterbot:Adding "queque dia es hoy=" as a response to "Hola"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Has oído las noticias? 0.32
+INFO:chatterbot.chatterbot:Similar text found: El pastel es una mentira. 0.35
+INFO:chatterbot.chatterbot:Similar text found: ¿Qué otra cosa es delicioso? 0.47
+INFO:chatterbot.chatterbot:Similar text found: ¿Que otra cosa es delicioso? 0.51
+INFO:chatterbot.chatterbot:Similar text found: queque dia es hoy= 0.85
+INFO:chatterbot.chatterbot:Using "¿Has oído las noticias?" as a close match to "que dia es hoy?" with a confidence of 0.32
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 12 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 12 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Qué buena noticia?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Qué buena noticia?" as a response with a confidence of 0.32
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "sábado, 4 de junio de 2022" as a response with a confidence of 0.7
+INFO:chatterbot.chatterbot:Adding "que dia es hoy?" as a response to "queque dia es hoy="
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Muy bien, gracias. 0.56
+INFO:chatterbot.chatterbot:Similar text found: Gracias. 0.93
+INFO:chatterbot.chatterbot:Using "Muy bien, gracias." as a close match to "GRacias" with a confidence of 0.56
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:No responses found. Generating alternate response list.
+INFO:chatterbot.chatterbot:No known response to the input was found. Selecting a random response.
+INFO:chatterbot.chatterbot:BestMatch selected "a" as a response with a confidence of 0
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "GRacias" as a response to "que dia es hoy?"
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 87 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 87 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "GRacias"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 39 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 39 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 42 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 42 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 45 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 45 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Cómo estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Cómo estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 5 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 5 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "None"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 11 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 11 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 6 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 6 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "HHola" as a close match to "HHola" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 316 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 316 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿como estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "HHola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "Hoa" as a close match to "Hoa" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 395 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 395 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿como estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hoa" as a response to "HHola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 14 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 14 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hoa"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 17 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 17 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 9 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 9 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 23 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 23 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 12 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 12 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 14 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 14 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Saludos"
+INFO:chatterbot.chatterbot:Selecting response from 17 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 17 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Saludos"
+INFO:chatterbot.chatterbot:Selecting response from 19 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 19 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 20 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 20 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Saludos"
+INFO:chatterbot.chatterbot:Selecting response from 21 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 21 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 23 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 23 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 26 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 26 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Saludos"
+INFO:chatterbot.chatterbot:Selecting response from 25 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 25 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Saludos"
+INFO:chatterbot.chatterbot:Selecting response from 27 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 27 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "Bien y tu?" as a close match to "Bien y tu?" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 1374 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1374 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿como estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Bien y tu?" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 55 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 55 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Bien y tu?"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Yo tambien estoy bien. 0.31
+INFO:chatterbot.chatterbot:Similar text found: ¿Como estás? 0.34
+INFO:chatterbot.chatterbot:Using "Yo tambien estoy bien." as a close match to "cuanto es 2 por 5" with a confidence of 0.31
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 19 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 19 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Que bueno."
+INFO:chatterbot.chatterbot:BestMatch selected "Que bueno." as a response with a confidence of 0.31
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "10" as a response with a confidence of 0.7
+INFO:chatterbot.chatterbot:Adding "cuanto es 2 por 5" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 37 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 37 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "cuanto es 2 por 5"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 62 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 62 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Cual es tu pregunta? 0.32
+INFO:chatterbot.chatterbot:Using "¿Cual es tu pregunta?" as a close match to "bien y tu?" with a confidence of 0.32
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 21 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 21 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Puedo pedir prestada una taza de azucar?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Puedo pedir prestada una taza de azucar?" as a response with a confidence of 0.32
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "bien y tu?" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 70 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 70 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "bien y tu?"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Cual es tu pregunta? 0.32
+INFO:chatterbot.chatterbot:Similar text found: bien y tu? 1.0
+INFO:chatterbot.chatterbot:Using "bien y tu?" as a close match to "bien y tu?" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Puedo pedir prestada una taza de azucar?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Puedo pedir prestada una taza de azucar?" as a response with a confidence of 1.0
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "bien y tu?" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 80 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 80 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "bien y tu?"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 58 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 58 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Como estas? 0.96
+INFO:chatterbot.chatterbot:Using "¿Como estas?" as a close match to "como estas?" with a confidence of 0.96
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 58 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 58 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Supongo que bien."
+INFO:chatterbot.chatterbot:BestMatch selected "Supongo que bien." as a response with a confidence of 0.96
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "como estas?" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 87 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 87 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "como estas?"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Como estas? 0.92
+INFO:chatterbot.chatterbot:Using "¿Como estas?" as a close match to "¿como estas=" with a confidence of 0.92
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 61 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 61 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Supongo que bien."
+INFO:chatterbot.chatterbot:BestMatch selected "Supongo que bien." as a response with a confidence of 0.92
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "¿como estas=" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "Que haces?" as a close match to "Que haces?" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 2370 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2370 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿como estás?" as a response with a confidence of 0
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "Que haces?" as a response to "¿como estas="
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 203 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 203 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hola"
+INFO:chatterbot.chatterbot:BestMatch selected "Hola" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Que haces?"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Como estás? 0.96
+INFO:chatterbot.chatterbot:Using "¿Como estás?" as a close match to "como estás?" with a confidence of 0.96
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 155 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 155 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Estoy bien."
+INFO:chatterbot.chatterbot:BestMatch selected "Estoy bien." as a response with a confidence of 0.96
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "como estás?" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 94 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 94 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "como estás?"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 97 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 97 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 100 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 100 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 74 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 74 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Saludos"
+INFO:chatterbot.chatterbot:BestMatch selected "Saludos" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Como estás? 0.87
+INFO:chatterbot.chatterbot:Similar text found: como estás? 0.91
+INFO:chatterbot.chatterbot:Using "¿Como estás?" as a close match to "como estás=" with a confidence of 0.87
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 176 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 176 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Estoy bien."
+INFO:chatterbot.chatterbot:BestMatch selected "Estoy bien." as a response with a confidence of 0.87
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "como estás=" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Has oido las noticias? 0.36
+INFO:chatterbot.chatterbot:Similar text found: ¿Que otra cosa es delicioso? 0.45
+INFO:chatterbot.chatterbot:Using "¿Has oido las noticias?" as a close match to "Sabes que dia es hoy?" with a confidence of 0.36
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "¿Como estás?"
+INFO:chatterbot.chatterbot:Selecting response from 35 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 35 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Que buena noticia?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Que buena noticia?" as a response with a confidence of 0.36
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "sábado" as a response with a confidence of 0.7
+INFO:chatterbot.chatterbot:Adding "Sabes que dia es hoy?" as a response to "como estás="
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hola 1.0
+INFO:chatterbot.chatterbot:Using "Hola" as a close match to "Hola" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 107 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 107 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Como estás?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Hola" as a response to "Sabes que dia es hoy?"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Cual es tu pregunta? 0.32
+INFO:chatterbot.chatterbot:Similar text found: bien y tu? 1.0
+INFO:chatterbot.chatterbot:Using "bien y tu?" as a close match to "bien y tu?" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hola"
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "¿Puedo pedir prestada una taza de azucar?"
+INFO:chatterbot.chatterbot:BestMatch selected "¿Puedo pedir prestada una taza de azucar?" as a response with a confidence of 1.0
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "No lo sé" as a response with a confidence of 0.1
+INFO:chatterbot.chatterbot:Adding "bien y tu?" as a response to "Hola"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "Si claro" as a close match to "Si claro" with a confidence of 0
+INFO:chatterbot.chatterbot:Selecting response from 2989 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2989 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Buenos días, ¿como estás?"
+INFO:chatterbot.chatterbot:BestMatch selected "Buenos días, ¿como estás?" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Not processing the statement using ScrapringLogicAdapter
+INFO:chatterbot.chatterbot:Adding "Si claro" as a response to "bien y tu?"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: ¿Has oido las noticias? 0.36
+INFO:chatterbot.chatterbot:Similar text found: ¿Que otra cosa es delicioso? 0.45
+INFO:chatterbot.chatterbot:Similar text found: Sabes que dia es hoy? 1.0
+INFO:chatterbot.chatterbot:Using "Sabes que dia es hoy?" as a close match to "Sabes que dia es hoy?" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 2 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2 options.
+INFO:chatterbot.chatterbot:Response selected. Using "sábado"
+INFO:chatterbot.chatterbot:BestMatch selected "sábado" as a response with a confidence of 1.0
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "sábado, 4 de junio de 2022" as a response with a confidence of 0.7
+INFO:chatterbot.chatterbot:Adding "Sabes que dia es hoy?" as a response to "Si claro"
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Yo tambien estoy bien. 0.33
+INFO:chatterbot.chatterbot:Similar text found: ¿Como estás? 0.46
+INFO:chatterbot.chatterbot:Similar text found: cuanto es 2 por 5 0.71
+INFO:chatterbot.chatterbot:Using "Yo tambien estoy bien." as a close match to "cuanto es 3*2?" with a confidence of 0.33
+INFO:chatterbot.chatterbot:Selecting response from 36 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 36 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Que bueno."
+INFO:chatterbot.chatterbot:BestMatch selected "Que bueno." as a response with a confidence of 0.33
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:chatterbot.chatterbot:ScrapringLogicAdapter selected "6" as a response with a confidence of 0.7
+INFO:chatterbot.chatterbot:Adding "cuanto es 3*2?" as a response to "Sabes que dia es hoy?"
+DEBUG:asyncio:Using selector: EpollSelector
